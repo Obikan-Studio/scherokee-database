@@ -1,0 +1,54 @@
+{
+    "stations":{
+      "gHz6zMoLX16gUivqsrUwT5GJ0wPIL4daUKEv5n+wxcw=":{
+            "resourceID":"hgsuJcchvKuaEzzijr",
+            "stationImage":"ou77tPu0RwFqI7dOzHc75sJMj1hmAWAM+jCcL/tzp8cI65Sph0MltKKM2GGzjOktCLLLvccpNt1t5aHK+UlFjcG18vDRx5MpTHYbHcIccamgj5yOx7M4QnXToaP/wbUK",
+            "name": "Rock & Royale"
+        },
+        "AKJFq+H2ajzefcBmjYExFYKjFkdq9D6TQVDyXYaNgvU=":{
+            "resourceID":"VlYSRdFWOKyyhNNNgr",
+            "stationImage":"ou77tPu0RwFqI7dOzHc75sJMj1hmAWAM+jCcL/tzp8fcZYHk+JiOVbPMiYu6J40NUnN7Jlv9eCYdfkfpwE6q8HNicw53fBLM9CFXeAtG0OORGvURlWqNJRTmdOgxJjyR",
+            "name": "Radio Underground"
+        },
+        "axg2IqO+cj//PCzpX/25e31Gek5X2AkLioai1jXppsY=":{
+            "resourceID":"DGeVaWdcXtfpbAaP",
+            "stationImage":"ou77tPu0RwFqI7dOzHc75sJMj1hmAWAM+jCcL/tzp8fa0jRK6vE0dcC81ZeIvctBY8BdedYKKRGCvqxQWg1NWrEcUELTI5GOM+okcjukchNT+Q+QYIcdsN1/CvZYIH3/",
+            "name": "Party Royale"
+        },
+        "hgF0jzCW2W0Fvayt6u9iQuZILo7XRLBrSkrsCifmHHE=":{
+            "resourceID":"GEviYjIhzVVzJufW",
+            "stationImage":"ou77tPu0RwFqI7dOzHc75sJMj1hmAWAM+jCcL/tzp8fvepHcu6d4rnMWsIjRGSLpKiOX2mNNfFxq/EqW181KyJXpBMKdt4DtSd2YikpprJWwYBRYn7ei9tv9Y4Qk9PpB",
+            "name": "Radio Yonder"
+        },
+        "QYYWf/keGF50ikb5mSSTwjEJDlFGq7WMNodCoCEOMTQ=":{
+            "resourceID":"BXrDueZkosvNvxtx",
+            "stationImage":"ou77tPu0RwFqI7dOzHc75sJMj1hmAWAM+jCcL/tzp8fb1B89vU0eOitHzd0P6xt9L8sbqY5baJqSLYwE9x8dFCfBwY6Ovrul/vKrnoVBf2eMioDZ3xPmy+n6PnvXlyCB",
+            "name": "Beat Box"
+        },
+        "2+Zu3tNjYyYQ/0nDLtOgAlBy4FxgMPAKHGKq7u8ameY=":{
+            "resourceID":"PcQCHxHkBsmjSneR",
+            "stationImage":"ou77tPu0RwFqI7dOzHc75sJMj1hmAWAM+jCcL/tzp8fRuuQofHuU73dej7Z8evbtfef+sKCr89eysqyZLHPwqb+22WlGXfT4/PKvBNLDvZwLPC7glkJTOk2VLrRxaHEe",
+            "name": "Power Play"
+        },
+        "w/1BGxOQ2VWwX5e2eLK5tbJ8cCy9EnUvbxbZJJVyKE8=":{
+            "resourceID":"YgtFtGyhyvyVyrecG",
+            "stationImage":"/prSK44ZUNwATK6bFqlxdfa6ibn97n2P7frZ55hNtZBLNNSsHhj/bHE0Og21MMBbhQrmphdaxJ//UAzcLjGWskE+H80Cce6EYteaIIIHHqSWCnfs1rFxqVQOckRN+WLf",
+            "name": "Watch Out"
+        },
+        "MoH6j8Ad5MlOlC6smphDAPLeGZ2v7of/ua94B0PdVWY=":{
+            "resourceID":"YYgTcRcexcrVnuhUvG",
+            "stationImage":"snkyEkYgUjtYkMnNXmD+pRFj+PaSmNtPhQcDOR6jogGKlsv2IZzJN+6mmWBrV4MrLvu1c9Gxxxcm28/L3zpNRGsihiAwDHliamAPHhNbeVkb0948YYE6SyYzQJaQkB2H",
+            "name": "Lover"
+        },
+        "aa5RkDwCfVVrYViUHiV5FzGYYBc4OjbWwS0CWMW/70g=":{
+            "resourceID":"GYTvrctbhnuyntcrEC",
+            "stationImage":"snkyEkYgUjtYkMnNXmD+pRFj+PaSmNtPhQcDOR6jogEeTfnJVHY1hRvz6ic1mfF5PLOqyjp/GFzo/rnGmsHML/e0OoQhh1o2OkYcxZ/BOnYkSUaSWxOo4boqThPKa8vB",
+            "name": "Blue Hour"
+        },
+        "gkJVoUQCtLEZSoDgKxdL9WgFx6msoXJ3aNALnpZBFyQ=":{
+            "resourceID":"KINUjiybVGtfcUHBGV",
+            "stationImage":"qA7IUyHAke/MzqUTwFUPtPPcP4wvmRyipnP8qYmrzm/n72zRKdB9I0u7nG+u/8+TuT7ori/dcj9B7Q+azE8VNw==",
+            "name": "Meteor Shower"
+        }
+    }
+}
