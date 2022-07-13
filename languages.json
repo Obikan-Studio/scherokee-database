@@ -1,0 +1,34 @@
+{
+    "stations":{
+      "Chinesse":{
+            "normal":"0v5oWPkQL3T/21HflZnSP4lKHFvhwUVRvUrxxe7EDs0=",
+            "Fortnite":"U0bRZ8ruevREaoGGJSrFsREUAQnzFRaesVV93c3uxdw=",
+            "admin": "NFtpWZVrvv56QTpdsX58p4VDHutlbz4gk5IdcX8tsOc="
+        },
+        "English":{
+            "normal":"0v5oWPkQL3T/21HflZnSP4lKHFvhwUVRvUrxxe7EDs0=",
+            "Fortnite":"U0bRZ8ruevREaoGGJSrFsREUAQnzFRaesVV93c3uxdw=",
+            "admin": "NFtpWZVrvv56QTpdsX58p4VDHutlbz4gk5IdcX8tsOc="
+        },
+        "Spanish":{
+            "normal":"0v5oWPkQL3T/21HflZnSP4lKHFvhwUVRvUrxxe7EDs0=",
+            "Fortnite":"U0bRZ8ruevREaoGGJSrFsREUAQnzFRaesVV93c3uxdw=",
+            "admin": "NFtpWZVrvv56QTpdsX58p4VDHutlbz4gk5IdcX8tsOc="
+        },
+        "French":{
+            "normal":"0v5oWPkQL3T/21HflZnSP4lKHFvhwUVRvUrxxe7EDs0=",
+            "Fortnite":"U0bRZ8ruevREaoGGJSrFsREUAQnzFRaesVV93c3uxdw=",
+            "admin": "NFtpWZVrvv56QTpdsX58p4VDHutlbz4gk5IdcX8tsOc="
+        },
+        "Japanese":{
+            "normal":"0v5oWPkQL3T/21HflZnSP4lKHFvhwUVRvUrxxe7EDs0=",
+            "Fortnite":"U0bRZ8ruevREaoGGJSrFsREUAQnzFRaesVV93c3uxdw=",
+            "admin": "NFtpWZVrvv56QTpdsX58p4VDHutlbz4gk5IdcX8tsOc="
+        },
+        "Thai":{
+            "normal":"0v5oWPkQL3T/21HflZnSP4lKHFvhwUVRvUrxxe7EDs0=",
+            "Fortnite":"U0bRZ8ruevREaoGGJSrFsREUAQnzFRaesVV93c3uxdw=",
+            "admin": "NFtpWZVrvv56QTpdsX58p4VDHutlbz4gk5IdcX8tsOc="
+        }
+    }
+}
